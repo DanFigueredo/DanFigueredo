@@ -8,9 +8,12 @@
 
 ### Tecnologias Usadas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Leall-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Leall-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-Leall-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)]()
   Technologies and tools
 
 

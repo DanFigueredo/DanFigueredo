@@ -3,9 +3,6 @@
 ⋄ Estudante da FATEC - Análise e Desenvolvimento de Sistemas
 
 
-![Daniel-Figueredo GitHub stats](https://github-readme-stats.vercel.app/api?username=DanFigueredo&theme=midnight-purple&show_icons=true)
-
-
 
 <div style="display: inline_block"><br>
 

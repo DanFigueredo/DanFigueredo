@@ -6,10 +6,10 @@
 ![Daniel-Figueredo GitHub stats](https://github-readme-stats.vercel.app/api?username=DanFigueredo&theme=midnight-purple&show_icons=true)
 
 
-### Tecnologias Usadas:
+
 <div style="display: inline_block"><br>
 
-  Technologies and tools
+  ### Technologies and tools
 
 
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()

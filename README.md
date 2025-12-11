@@ -1,7 +1,6 @@
-## Olá, Eu sou Daniel Figueredo
+## Hi, I'm Daniel Figueredo
 
-⋄ Estudante da FATEC - Análise e Desenvolvimento de Sistemas
-
+⋄FATEC Student - Systems Analysis and Development
 
 
 <div style="display: inline_block"><br>
